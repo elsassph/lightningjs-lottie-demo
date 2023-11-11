@@ -1,0 +1,6 @@
+{
+  "name": "Lottie Demo",
+  "identifier": "com.domain.app.LottieDemo",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
